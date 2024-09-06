@@ -15,9 +15,3 @@ void displayForward(Node *head) {
     }
     printf("\n");
 }
-
-int main() {
-    Node *head = NULL;
-    // Example usage of displayForward
-    return 0;
-}
